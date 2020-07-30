@@ -798,3 +798,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.30-07.08.24:643][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Substances/Stylized_Herringbone_Stone_Pavement_MAT_Template]
 [2020.07.30-07.08.24:659][ 27]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_repo/Disaster-Artist/UnrealProject/AncientTemple/Saved/Stylized_Herringbone_Stone_Pavem486D99A64E805877A3F216BE5596251F.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_repo/Disaster-Artist/UnrealProject/AncientTemple/Saved/Autosaves/Game/Project/Substances/Stylized_Herringbone_Stone_Pavement_MAT_Template_Auto1.uasset'
 [2020.07.30-07.08.24:661][ 27]LogFileHelpers: Auto-saving content packages took 0.041
+[2020.07.30-07.11.35:432][706]LogActorFactory: Actor Factory created Doors_and_Frames_RightWallDoorFrame_002
+[2020.07.30-07.11.35:867][743]LogActorFactory: Actor Factory created Doors_and_Frames_RightWallDoorFrame_002
+[2020.07.30-07.11.47:883][989]LogActorFactory: Actor Factory created Doors_and_Frames_polySurface1
+[2020.07.30-07.11.48:217][ 24]LogActorFactory: Actor Factory created Doors_and_Frames_polySurface1
+[2020.07.30-07.11.48:967][ 88]LogActorFactory: Actor Factory created Doors_and_Frames_polySurface2
+[2020.07.30-07.11.49:147][105]LogActorFactory: Actor Factory created Doors_and_Frames_polySurface2
+[2020.07.30-07.18.25:183][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.07.30-07.18.26:025][ 57]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_repo/Disaster-Artist/UnrealProject/AncientTemple/Saved/Eumachia_Level_Auto26CA16932412F79DCC70A1AB63F5BAA94.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_repo/Disaster-Artist/UnrealProject/AncientTemple/Saved/Autosaves/Game/Project/Levels/Eumachia_Level_Auto2.umap'
+[2020.07.30-07.18.26:055][ 57]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Levels/Eumachia_Level' took 0.881
+[2020.07.30-07.18.26:055][ 57]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.881
