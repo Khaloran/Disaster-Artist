@@ -5535,3 +5535,408 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.12-05.25.06:952][700]AssetCheck: New page: Asset Save: multiple assets
 [2020.08.12-05.25.06:952][700]LogContentValidation: Display: Validating World /Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.Cheronobyl_TestLevel
 [2020.08.12-05.25.06:952][700]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel_BuiltData.Cheronobyl_TestLevel_BuiltData
+[2020.08.12-05.32.08:753][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.08.12-05.33.06:447][961]Cmd: TRANSACTION UNDO
+[2020.08.12-05.33.06:447][961]LogEditorTransaction: Undo Edit Fog Height Falloff
+[2020.08.12-05.33.20:890][639]Cmd: TRANSACTION UNDO
+[2020.08.12-05.33.20:890][639]LogEditorTransaction: Undo Edit Fog Max Opacity
+[2020.08.12-05.33.28:231][468]Cmd: TRANSACTION UNDO
+[2020.08.12-05.33.28:231][468]LogEditorTransaction: Undo Edit Start Distance
+[2020.08.12-05.33.31:558][818]Cmd: TRANSACTION UNDO
+[2020.08.12-05.33.31:558][818]LogEditorTransaction: Undo Edit Fog Cutoff Distance
+[2020.08.12-05.33.41:098][914]Cmd: TRANSACTION UNDO
+[2020.08.12-05.33.41:098][914]LogEditorTransaction: Undo Edit Scattering Distribution
+[2020.08.12-05.33.50:448][982]Cmd: TRANSACTION UNDO
+[2020.08.12-05.33.50:448][982]LogEditorTransaction: Undo Edit Extinction Scale
+[2020.08.12-05.33.51:325][ 37]Cmd: TRANSACTION UNDO
+[2020.08.12-05.33.51:325][ 37]LogEditorTransaction: Undo Edit Extinction Scale
+[2020.08.12-05.33.57:132][730]Cmd: TRANSACTION UNDO
+[2020.08.12-05.33.57:132][730]LogEditorTransaction: Undo Edit View Distance
+[2020.08.12-05.34.01:632][218]Cmd: TRANSACTION UNDO
+[2020.08.12-05.34.01:632][218]LogEditorTransaction: Undo Edit Static Lighting Scattering Intensity
+[2020.08.12-05.34.23:935][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.08.12-05.34.24:041][822]LogSavePackage: Moving '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Cheronobyl_TestLevel771CE96D4D351E51EEB8AAACDF438D11.tmp' to '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Content/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.umap'
+[2020.08.12-05.34.24:709][822]LogSavePackage: Moving '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Cheronobyl_TestLevel_BuiltData11EA9417477335ECA280B2AAA91042AB.tmp' to '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Content/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel_BuiltData.uasset'
+[2020.08.12-05.34.24:730][822]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.12-05.34.24:730][822]LogContentValidation: Display: Validating World /Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.Cheronobyl_TestLevel
+[2020.08.12-05.34.24:730][822]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel_BuiltData.Cheronobyl_TestLevel_BuiltData
+[2020.08.12-05.34.46:560][418]LogActorFactory: Actor Factory created Cube
+[2020.08.12-05.34.47:458][513]LogActorFactory: Actor Factory created Cube
+[2020.08.12-05.36.57:037][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2020.08.12-05.37.03:976][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2020.08.12-05.37.12:792][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2020.08.12-05.37.18:421][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.08.12-05.40.42:884][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.08.12-05.40.43:000][547]LogSavePackage: Moving '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Cheronobyl_TestLevelC22C008542D2E1364658E3AC2D11A732.tmp' to '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Content/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.umap'
+[2020.08.12-05.40.43:695][547]LogSavePackage: Moving '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Cheronobyl_TestLevel_BuiltData9898AFEB4000496287E17F93508AA1DD.tmp' to '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Content/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel_BuiltData.uasset'
+[2020.08.12-05.40.43:757][547]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.12-05.40.43:757][547]LogContentValidation: Display: Validating World /Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.Cheronobyl_TestLevel
+[2020.08.12-05.40.43:757][547]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel_BuiltData.Cheronobyl_TestLevel_BuiltData
+[2020.08.12-05.40.45:952][797]MapCheck: New page: Map Check
+[2020.08.12-05.40.45:960][797]LightingResults: New page: Lighting Build - 13 Aug 2020, 1:40:45 am
+[2020.08.12-05.40.45:974][797]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.12-05.40.45:977][797]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.12-05.40.45:977][797]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.12-05.40.45:978][797]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.12-05.40.45:978][797]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13016
+[2020.08.12-05.40.50:490][797]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.08.12-05.40.50:491][797]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.12-05.40.50:491][797]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.12-05.40.50:491][797]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.12-05.40.50:491][797]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.12-05.40.50:491][797]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.12-05.40.50:580][797]LogEditorBuildUtils: Build time 0:04
+[2020.08.12-05.40.50:751][800]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.08.12-05.40.56:309][217]MapCheck: New page: Map Check
+[2020.08.12-05.40.56:322][217]LogStaticLightingSystem: Warning: Failed to build lighting!!! A lighting build is already in progress! Please cancel it before triggering a new build.
+[2020.08.12-05.40.56:496][217]Job has failed! Job is closed while Tasks are still PENDING
+[2020.08.12-05.40.56:497][217]LogEditorBuildUtils: Build time 0:00
+[2020.08.12-05.41.13:257][435]LogSlate: Window 'FbxScene_Cheronobyl_Final' being destroyed
+[2020.08.12-05.41.13:264][435]LogSlate: Window 'FbxScene_Cheronobyl_Final' being destroyed
+[2020.08.12-05.41.13:287][435]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.08.12-05.41.13:287][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.12-05.41.26:103][908]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.08.12-05.41.37:837][246]Cmd: TRANSACTION UNDO
+[2020.08.12-05.41.37:837][246]LogEditorTransaction: Undo Move Actors
+[2020.08.12-05.41.38:294][259]Cmd: TRANSACTION UNDO
+[2020.08.12-05.41.38:294][259]LogEditorTransaction: Undo Move Actors
+[2020.08.12-05.41.38:786][312]Cmd: TRANSACTION UNDO
+[2020.08.12-05.41.38:786][312]LogEditorTransaction: Undo Clicking on Actors
+[2020.08.12-05.41.45:087][ 40]MapCheck: New page: Map Check
+[2020.08.12-05.41.45:095][ 40]LightingResults: New page: Lighting Build - 13 Aug 2020, 1:41:45 am
+[2020.08.12-05.41.45:102][ 40]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.12-05.41.45:104][ 40]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.12-05.41.45:104][ 40]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.12-05.41.45:105][ 40]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.12-05.41.45:105][ 40]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13016
+[2020.08.12-05.41.49:616][ 40]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.08.12-05.41.49:617][ 40]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.12-05.41.49:617][ 40]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.12-05.41.49:617][ 40]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.12-05.41.49:617][ 40]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.12-05.41.49:617][ 40]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.12-05.41.49:690][ 40]LogEditorBuildUtils: Build time 0:04
+[2020.08.12-05.41.49:815][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.08.12-05.42.07:800][633]Job is a success!
+[2020.08.12-05.42.08:043][634]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.022s
+[2020.08.12-05.42.08:043][634]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.08.12-05.42.08:043][634]LogVolumetricLightmapImport:      BrickData (all levels) 0.8Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2020.08.12-05.42.08:043][634]LogVolumetricLightmapImport:      Bricks at depth
+[2020.08.12-05.42.08:043][634]LogVolumetricLightmapImport:          0: 0.6% covering 100.0% of volume
+[2020.08.12-05.42.08:043][634]LogVolumetricLightmapImport:          1: 6.8% covering 18.8% of volume
+[2020.08.12-05.42.08:043][634]LogVolumetricLightmapImport:          2: 92.7% covering 4.0% of volume
+[2020.08.12-05.42.08:043][634]LogVolumetricLightmapImport:      Bricks in each level
+[2020.08.12-05.42.08:043][634]LogVolumetricLightmapImport:          Cheronobyl_TestLevel 			 177 bricks 	 100.0% (Persistent Level)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 1024X1024)
+[2020.08.12-05.42.10:706][634]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 1024X1024)
+[2020.08.12-05.42.10:906][634]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (BGRA8, 1024X512)
+[2020.08.12-05.42.10:984][634]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (BGRA8, 1024X1024)
+[2020.08.12-05.42.10:984][634]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 1024X1024)
+[2020.08.12-05.42.10:984][634]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 1024X1024)
+[2020.08.12-05.42.10:984][634]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 1024X1024)
+[2020.08.12-05.42.10:984][634]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 1024X1024)
+[2020.08.12-05.42.10:984][634]Lightmass on DESKTOP-I7JUICJ: 20.7 sec total, 390 ms importing, 88 ms setup, 4.30 sec photons, 15.9 sec processing, 0 ms extra exporting [609/609 mappings]. Threads: 3:58 min total, 1:51 min processing.
+[2020.08.12-05.42.10:984][634]LogStaticLightingSystem: Cheronobyl_TestLevel_BuiltData storing lightmap data for 609 meshes in 14 LightmapResourceClusters (43.5 Meshes per cluster).
+[2020.08.12-05.42.11:093][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.08.12-05.42.11:149][634]LogStaticLightingSystem: Illumination: 26.0 sec (2.11 sec encoding lightmaps, 266 ms encoding shadowmaps)
+[2020.08.12-05.42.11:149][634]LogStaticLightingSystem: Lightmap texture memory:  22.0 MB (22.0 MB streaming, 0.0 MB non-streaming), 22 textures
+[2020.08.12-05.42.11:149][634]LogStaticLightingSystem: Shadowmap texture memory: 29.3 MB (29.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.08.12-05.42.11:629][634]DumpUnbuiltLightIteractions
+[2020.08.12-05.42.11:629][634]Lights with unbuilt interactions: 0
+[2020.08.12-05.42.11:629][634]
+[2020.08.12-05.42.11:629][634]Primitives with unbuilt interactions: 0
+[2020.08.12-05.42.11:769][635]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.12-05.42.11:769][635]MapCheck: New page: Cheronobyl_TestLevel - 13 Aug 2020, 1:42:11 am
+[2020.08.12-05.42.11:770][635]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.965ms to complete.
+[2020.08.12-05.43.15:551][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.08.12-05.43.15:662][207]LogSavePackage: Moving '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Cheronobyl_TestLevelD3FA113B4BC162608E38D0B4E637C3C1.tmp' to '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Content/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.umap'
+[2020.08.12-05.43.16:322][207]LogSavePackage: Moving '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Cheronobyl_TestLevel_BuiltDataC1EA1D9C4349CE0B3B61C4B4EF74F4E8.tmp' to '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Content/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel_BuiltData.uasset'
+[2020.08.12-05.43.16:347][207]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.12-05.43.16:347][207]LogContentValidation: Display: Validating World /Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.Cheronobyl_TestLevel
+[2020.08.12-05.43.16:347][207]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel_BuiltData.Cheronobyl_TestLevel_BuiltData
+[2020.08.12-05.43.49:855][109]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.08.12-05.43.49:872][110]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.08.12-05.43.49:872][110]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2020.08.12-05.43.49:872][110]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.08.12-05.43.49:872][110]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.08.12-05.47.14:626][407]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.08.12-05.47.14:638][407]LogMaterial: Display: Missing cached shader map for material MetalBox, compiling. 
+[2020.08.12-05.47.14:649][407]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2020.08.12-05.47.14:649][407]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2020.08.12-05.47.14:649][407]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2020.08.12-05.47.14:649][407]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2020.08.12-05.47.14:649][407]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 12
+[2020.08.12-05.47.14:649][407]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2020.08.12-05.47.14:649][407]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2020.08.12-05.47.14:649][407]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2020.08.12-05.47.14:650][407]LogStaticMesh: Building static mesh Fileing_Drawer...
+[2020.08.12-05.47.14:679][407]LogStaticMesh: Built static mesh [0.03s] /Game/Derek_PearlHarbor_BP/Assets/Fileing_Drawer.Fileing_Drawer
+[2020.08.12-05.47.14:714][409]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 24
+[2020.08.12-05.47.14:714][409]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 21
+[2020.08.12-05.47.14:714][409]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 18
+[2020.08.12-05.47.14:714][409]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 15
+[2020.08.12-05.47.14:783][415]LogActorFactory: Actor Factory created Fileing_Drawer
+[2020.08.12-05.47.16:551][492]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2020.08.12-05.47.16:670][498]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2020.08.12-05.47.16:727][500]LogActorFactory: Actor Factory created Fileing_Drawer
+[2020.08.12-05.47.16:831][501]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2020.08.12-05.47.17:181][519]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.08.12-05.47.17:234][522]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2020.08.12-05.47.17:234][522]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2020.08.12-05.47.17:298][526]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2020.08.12-05.47.17:340][529]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.08.12-05.47.17:370][531]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2020.08.12-05.47.17:385][532]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.08.12-05.47.17:454][536]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2020.08.12-05.47.30:462][ 66]Cmd: TRANSACTION UNDO
+[2020.08.12-05.47.30:462][ 66]LogEditorTransaction: Undo Rotate Actors
+[2020.08.12-05.47.30:848][ 77]Cmd: TRANSACTION UNDO
+[2020.08.12-05.47.30:848][ 77]LogEditorTransaction: Undo Move Actors
+[2020.08.12-05.47.31:273][114]Cmd: TRANSACTION UNDO
+[2020.08.12-05.47.31:273][114]LogEditorTransaction: Undo Move Actors
+[2020.08.12-05.47.31:694][164]Cmd: TRANSACTION UNDO
+[2020.08.12-05.47.31:694][164]LogEditorTransaction: Undo Scale Actors
+[2020.08.12-05.47.32:126][214]Cmd: TRANSACTION UNDO
+[2020.08.12-05.47.32:126][214]LogEditorTransaction: Undo Scale Actors
+[2020.08.12-05.47.32:595][270]Cmd: TRANSACTION UNDO
+[2020.08.12-05.47.32:595][270]LogEditorTransaction: Undo Create Actors
+[2020.08.12-05.47.39:732][ 83]LogStaticMesh: Building static mesh Lamp...
+[2020.08.12-05.47.39:756][ 83]LogStaticMesh: Built static mesh [0.02s] /Game/Derek_PearlHarbor_BP/Assets/Lamp.Lamp
+[2020.08.12-05.47.39:845][ 88]LogActorFactory: Actor Factory created Lamp
+[2020.08.12-05.47.40:732][188]LogActorFactory: Actor Factory created Lamp
+[2020.08.12-05.47.49:436][196]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.12-05.48.17:163][429]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.08.12-05.49.57:018][109]LogActorFactory: Actor Factory created Lamp
+[2020.08.12-05.49.58:204][246]LogActorFactory: Actor Factory created Lamp
+[2020.08.12-05.49.59:135][354]Cmd: TRANSACTION UNDO
+[2020.08.12-05.49.59:135][354]LogEditorTransaction: Undo Create Actors
+[2020.08.12-05.50.03:833][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lamp)
+[2020.08.12-05.50.10:011][572]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.12-05.50.29:276][839]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.12-05.50.48:294][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lamp2)
+[2020.08.12-05.51.54:970][ 17]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.12-05.52.17:525][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lamp5)
+[2020.08.12-05.52.27:074][687]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.08.12-05.52.43:387][622]Cmd: TRANSACTION UNDO
+[2020.08.12-05.52.43:387][622]LogEditorTransaction: Undo Edit Intensity
+[2020.08.12-05.53.00:154][555]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.12-05.53.36:148][727]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.12-05.53.44:194][646]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.12-05.53.51:495][473]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.08.12-05.53.58:250][261]Cmd: TRANSACTION UNDO
+[2020.08.12-05.53.58:250][261]LogEditorTransaction: Undo Clicking on Actors
+[2020.08.12-05.53.58:619][270]Cmd: TRANSACTION UNDO
+[2020.08.12-05.53.58:619][270]LogEditorTransaction: Undo Move Actors
+[2020.08.12-05.53.58:913][291]Cmd: TRANSACTION UNDO
+[2020.08.12-05.53.58:913][291]LogEditorTransaction: Undo Move Actors
+[2020.08.12-05.53.59:277][332]Cmd: TRANSACTION UNDO
+[2020.08.12-05.53.59:277][332]LogEditorTransaction: Undo Move Actors
+[2020.08.12-05.53.59:605][371]Cmd: TRANSACTION UNDO
+[2020.08.12-05.53.59:605][371]LogEditorTransaction: Undo Move Actors
+[2020.08.12-05.54.00:202][440]Cmd: TRANSACTION UNDO
+[2020.08.12-05.54.00:202][440]LogEditorTransaction: Undo Move Actors
+[2020.08.12-05.54.10:604][658]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.12-05.54.13:655][999]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.08.12-05.54.16:833][353]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.12-05.54.20:307][738]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.12-05.54.27:516][564]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2020.08.12-05.54.31:987][ 89]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.12-05.54.39:431][949]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Cheronobyl_Final_C (FbxScene_Cheronobyl_Final)
+[2020.08.12-05.54.39:436][949]PIE: Warning: AttachTo: '/Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.Cheronobyl_TestLevel:PersistentLevel.FbxScene_Cheronobyl_Final.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Cheronobyl_Final"), cannot attach '/Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.Cheronobyl_TestLevel:PersistentLevel.FbxScene_Cheronobyl_Final.Main_Room' which is static to it. Aborting.
+[2020.08.12-05.54.39:437][949]PIE: Warning: AttachTo: '/Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.Cheronobyl_TestLevel:PersistentLevel.FbxScene_Cheronobyl_Final.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Cheronobyl_Final"), cannot attach '/Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.Cheronobyl_TestLevel:PersistentLevel.FbxScene_Cheronobyl_Final.Controll_Room' which is static to it. Aborting.
+[2020.08.12-05.54.40:362][ 41]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2020.08.12-05.54.40:484][ 52]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.12-05.54.46:819][771]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.12-05.54.53:023][489]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.12-05.54.56:713][906]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.08.12-05.54.57:672][ 18]Cmd: DELETE
+[2020.08.12-05.54.57:672][ 18]Cmd: ACTOR DELETE
+[2020.08.12-05.54.57:682][ 18]LogEditorActor: Deleted Actor: PointLight
+[2020.08.12-05.54.57:700][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.08.12-05.54.57:722][ 18]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2020.08.12-05.55.03:985][754]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.08.12-05.55.04:841][853]Cmd: DELETE
+[2020.08.12-05.55.04:841][853]Cmd: ACTOR DELETE
+[2020.08.12-05.55.04:847][853]LogEditorActor: Deleted Actor: PointLight
+[2020.08.12-05.55.04:861][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.08.12-05.55.04:864][853]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.08.12-05.55.11:609][656]LogEditorViewport: Clicking on Actor (LMB): FbxScene_Cheronobyl_Final_C (FbxScene_Cheronobyl_Final)
+[2020.08.12-05.55.11:614][656]PIE: Warning: AttachTo: '/Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.Cheronobyl_TestLevel:PersistentLevel.FbxScene_Cheronobyl_Final.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Cheronobyl_Final"), cannot attach '/Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.Cheronobyl_TestLevel:PersistentLevel.FbxScene_Cheronobyl_Final.Main_Room' which is static to it. Aborting.
+[2020.08.12-05.55.11:614][656]PIE: Warning: AttachTo: '/Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.Cheronobyl_TestLevel:PersistentLevel.FbxScene_Cheronobyl_Final.DefaultSceneRoot' is not static  (in blueprint "FbxScene_Cheronobyl_Final"), cannot attach '/Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.Cheronobyl_TestLevel:PersistentLevel.FbxScene_Cheronobyl_Final.Controll_Room' which is static to it. Aborting.
+[2020.08.12-05.55.12:057][705]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2020.08.12-05.55.15:164][ 70]Cmd: TRANSACTION UNDO
+[2020.08.12-05.55.15:164][ 70]LogEditorTransaction: Undo Move Actors
+[2020.08.12-05.55.23:557][ 10]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.08.12-05.55.34:648][308]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.12-05.56.06:049][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.08.12-05.56.06:161][210]LogSavePackage: Moving '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Cheronobyl_TestLevel_Auto76C2EC57242E9749540351D8E4164A5DF.tmp' to '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Autosaves/Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel_Auto7.umap'
+[2020.08.12-05.56.06:163][210]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel' took 0.129
+[2020.08.12-05.56.06:163][210]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.129
+[2020.08.12-05.56.06:164][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FXVarietyPack/Materials/MI_ky_storm01_thunder_nonD] ([1] browsable assets)...
+[2020.08.12-05.56.06:187][210]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/FXVarietyPack/Materials/MI_ky_storm01_thunder_nonD.MI_ky_storm01_thunder_nonD]
+[2020.08.12-05.56.06:187][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/FXVarietyPack/Materials/MI_ky_storm01_thunder_nonD]
+[2020.08.12-05.56.06:206][210]LogSavePackage: Moving '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/MI_ky_storm01_thunder_nonD_Auto7E9D872DE42C7FA9F463863844A9BF1C2.tmp' to '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Autosaves/Game/FXVarietyPack/Materials/MI_ky_storm01_thunder_nonD_Auto7.uasset'
+[2020.08.12-05.56.06:207][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FXVarietyPack/Materials/M_ky_storm01] ([1] browsable assets)...
+[2020.08.12-05.56.06:228][210]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FXVarietyPack/Materials/M_ky_storm01.M_ky_storm01]
+[2020.08.12-05.56.06:228][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/FXVarietyPack/Materials/M_ky_storm01]
+[2020.08.12-05.56.06:258][210]LogSavePackage: Moving '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/M_ky_storm01_Auto70BB85A1D4C6AD332E8E5EAA9FC05A3EF.tmp' to '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Autosaves/Game/FXVarietyPack/Materials/M_ky_storm01_Auto7.uasset'
+[2020.08.12-05.56.06:259][210]LogFileHelpers: Auto-saving content packages took 0.095
+[2020.08.12-05.57.18:282][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.12-05.57.18:376][269]LogSavePackage: Moving '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Cheronobyl_TestLevel9A4590DB43BC68A9BD8855AF0742CEF9.tmp' to '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Content/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.umap'
+[2020.08.12-05.57.19:074][269]LogSavePackage: Moving '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Cheronobyl_TestLevel_BuiltData0069A1494B05600D2BEB579681FC2A2B.tmp' to '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Content/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel_BuiltData.uasset'
+[2020.08.12-05.57.19:095][269]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.12-05.57.19:095][269]LogContentValidation: Display: Validating World /Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.Cheronobyl_TestLevel
+[2020.08.12-05.57.19:096][269]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel_BuiltData.Cheronobyl_TestLevel_BuiltData
+[2020.08.12-05.57.26:835][685]MapCheck: New page: Map Check
+[2020.08.12-05.57.26:844][685]LightingResults: New page: Lighting Build - 13 Aug 2020, 1:57:26 am
+[2020.08.12-05.57.26:851][685]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.12-05.57.26:854][685]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.12-05.57.26:854][685]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.12-05.57.26:854][685]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.12-05.57.26:854][685]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13016
+[2020.08.12-05.57.31:364][685]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.08.12-05.57.31:365][685]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.12-05.57.31:365][685]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.12-05.57.31:365][685]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.12-05.57.31:365][685]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.12-05.57.31:365][685]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.12-05.57.31:450][685]LogEditorBuildUtils: Build time 0:04
+[2020.08.12-05.57.31:455][685]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MetalBox, compiling. 
+[2020.08.12-05.57.31:458][685]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MetalBox, compiling. 
+[2020.08.12-05.57.31:946][685]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.08.12-05.57.31:946][685]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2020.08.12-05.57.31:946][685]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.08.12-05.57.31:946][685]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.08.12-05.57.32:030][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.08.12-05.57.48:229][109]Job is a success!
+[2020.08.12-05.57.48:455][110]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2020.08.12-05.57.48:455][110]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.08.12-05.57.48:455][110]LogVolumetricLightmapImport:      BrickData (all levels) 0.8Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2020.08.12-05.57.48:455][110]LogVolumetricLightmapImport:      Bricks at depth
+[2020.08.12-05.57.48:455][110]LogVolumetricLightmapImport:          0: 0.6% covering 100.0% of volume
+[2020.08.12-05.57.48:455][110]LogVolumetricLightmapImport:          1: 6.9% covering 18.8% of volume
+[2020.08.12-05.57.48:455][110]LogVolumetricLightmapImport:          2: 92.5% covering 3.9% of volume
+[2020.08.12-05.57.48:455][110]LogVolumetricLightmapImport:      Bricks in each level
+[2020.08.12-05.57.48:455][110]LogVolumetricLightmapImport:          Cheronobyl_TestLevel 			 173 bricks 	 100.0% (Persistent Level)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2020.08.12-05.57.51:126][110]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2020.08.12-05.57.51:327][110]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (BGRA8, 1024X1024)
+[2020.08.12-05.57.51:327][110]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 1024X1024)
+[2020.08.12-05.57.51:366][110]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (BGRA8, 1024X1024)
+[2020.08.12-05.57.51:366][110]Lightmass on DESKTOP-I7JUICJ: 18.8 sec total, 408 ms importing, 97 ms setup, 3.32 sec photons, 15.0 sec processing, 0 ms extra exporting [618/618 mappings]. Threads: 3:45 min total, 1:23 min processing.
+[2020.08.12-05.57.51:366][110]LogStaticLightingSystem: Cheronobyl_TestLevel_BuiltData storing lightmap data for 618 meshes in 22 LightmapResourceClusters (28.1 Meshes per cluster).
+[2020.08.12-05.57.51:435][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.08.12-05.57.51:485][110]LogStaticLightingSystem: Illumination: 24.6 sec (2.16 sec encoding lightmaps, 228 ms encoding shadowmaps)
+[2020.08.12-05.57.51:485][110]LogStaticLightingSystem: Lightmap texture memory:  22.0 MB (22.0 MB streaming, 0.0 MB non-streaming), 22 textures
+[2020.08.12-05.57.51:485][110]LogStaticLightingSystem: Shadowmap texture memory: 16.0 MB (16.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.08.12-05.57.52:378][110]DumpUnbuiltLightIteractions
+[2020.08.12-05.57.52:378][110]Lights with unbuilt interactions: 0
+[2020.08.12-05.57.52:378][110]
+[2020.08.12-05.57.52:378][110]Primitives with unbuilt interactions: 0
+[2020.08.12-05.57.52:521][111]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.12-05.57.52:521][111]MapCheck: New page: Cheronobyl_TestLevel - 13 Aug 2020, 1:57:52 am
+[2020.08.12-05.57.52:522][111]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.001ms to complete.
+[2020.08.12-05.58.04:953][542]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.08.12-05.58.08:634][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.08.12-05.58.08:730][974]LogSavePackage: Moving '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Cheronobyl_TestLevelCE12B49A4DC6CB14305508B055D5977B.tmp' to '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Content/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.umap'
+[2020.08.12-05.58.09:306][974]LogSavePackage: Moving '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Cheronobyl_TestLevel_BuiltData6FD3F0DB4EB069279CE7138F994E8373.tmp' to '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Content/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel_BuiltData.uasset'
+[2020.08.12-05.58.09:326][974]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.12-05.58.09:326][974]LogContentValidation: Display: Validating World /Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.Cheronobyl_TestLevel
+[2020.08.12-05.58.09:326][974]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel_BuiltData.Cheronobyl_TestLevel_BuiltData
+[2020.08.12-05.58.12:373][326]LogTemp: Repeating last play command: Simulate
+[2020.08.12-05.58.12:394][326]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.12-05.58.12:397][326]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2020.08.12-05.58.12:447][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.08.12-05.58.12:449][326]LogPlayLevel: PlayLevel: Blueprint regeneration took 54 ms (1 blueprints)
+[2020.08.12-05.58.12:449][326]PIE: New page: SIE session: Cheronobyl_TestLevel (13 Aug 2020, 1:58:12 am)
+[2020.08.12-05.58.12:450][326]LogPlayLevel: Creating play world package: /Game/Elmin_Chernobyl/Maps/UEDPIE_0_Cheronobyl_TestLevel
+[2020.08.12-05.58.12:477][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027298s)
+[2020.08.12-05.58.12:478][326]LogAIModule: Creating AISystem for world Cheronobyl_TestLevel
+[2020.08.12-05.58.12:478][326]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B50C054C00), frame # 877326
+[2020.08.12-05.58.12:478][326]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B597C0BEC0), frame # 877326
+[2020.08.12-05.58.12:479][326]LogPlayLevel: PIE: World Init took: (0.001569s)
+[2020.08.12-05.58.12:479][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.Cheronobyl_TestLevel to /Game/Elmin_Chernobyl/Maps/UEDPIE_0_Cheronobyl_TestLevel.Cheronobyl_TestLevel (0.029010s)
+[2020.08.12-05.58.12:495][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.08.12-05.58.12:496][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.12-05.58.12:496][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.12-05.58.12:496][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.12-05.58.12:496][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.12-05.58.12:496][326]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.12-05.58.12:496][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.12-05.58.12:496][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.12-05.58.12:496][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.12-05.58.12:497][326]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.12-05.58.12:497][326]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.12-05.58.12:502][326]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.12-05.58.12:502][326]LogAudioMixer: Display: 1: FrontRight
+[2020.08.12-05.58.12:519][326]LogAudioMixer: Display: Using Audio Device BenQ RL2755 (NVIDIA High Definition Audio)
+[2020.08.12-05.58.12:519][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.12-05.58.12:519][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.12-05.58.12:519][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.12-05.58.12:519][326]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.12-05.58.12:520][326]LogInit: FAudioDevice initialized.
+[2020.08.12-05.58.12:540][326]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.08.12-05.58.12:543][326]LogPhysics: Warning: Scale for /Game/Elmin_Chernobyl/Maps/UEDPIE_0_Cheronobyl_TestLevel.Cheronobyl_TestLevel:PersistentLevel.FbxScene_Cheronobyl_Final.Reactor_photo1 has a component set to zero, which will result in a bad body instance. Scale:X=40.466 Y=0.000 Z=40.466
+[2020.08.12-05.58.12:548][326]LogPhysics: Warning: Scale for /Game/Elmin_Chernobyl/Maps/UEDPIE_0_Cheronobyl_TestLevel.Cheronobyl_TestLevel:PersistentLevel.FbxScene_Cheronobyl_Final.reactor_photo has a component set to zero, which will result in a bad body instance. Scale:X=121.061 Y=0.000 Z=121.061
+[2020.08.12-05.58.12:554][326]LogWorld: Bringing World /Game/Elmin_Chernobyl/Maps/UEDPIE_0_Cheronobyl_TestLevel.Cheronobyl_TestLevel up for play (max tick rate 0) at 2020.08.12-15.58.12
+[2020.08.12-05.58.12:554][326]LogWorld: Bringing up level for play took: 0.012969
+[2020.08.12-05.58.12:555][326]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.08.12-05.58.12:559][326]PIE: Server logged in
+[2020.08.12-05.58.12:559][326]PIE: Play in editor total start time 0.168 seconds.
+[2020.08.12-05.58.38:040][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.12-05.58.38:040][356]LogWorld: BeginTearingDown for /Game/Elmin_Chernobyl/Maps/UEDPIE_0_Cheronobyl_TestLevel
+[2020.08.12-05.58.38:040][356]LogWorld: UWorld::CleanupWorld for Cheronobyl_TestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.08.12-05.58.38:042][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.12-05.58.38:047][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.12-05.58.38:051][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.12-05.58.38:065][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.12-05.58.38:083][356]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B597C0BEC0), frame # 880356
+[2020.08.12-05.58.38:083][356]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B50C054C00), frame # 880356
+[2020.08.12-05.58.38:086][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.08.12-05.58.38:118][357]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.08.12-05.59.41:507][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.08.12-05.59.41:620][830]LogSavePackage: Moving '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Cheronobyl_TestLevel227A7D6A475C1641FE6E40B8CFE3A2C3.tmp' to '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Content/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.umap'
+[2020.08.12-05.59.42:188][830]LogSavePackage: Moving '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Cheronobyl_TestLevel_BuiltData3C91FB304F8CAE529095B08346C0B4F1.tmp' to '../../../../../../Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Content/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel_BuiltData.uasset'
+[2020.08.12-05.59.42:210][830]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.12-05.59.42:210][830]LogContentValidation: Display: Validating World /Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel.Cheronobyl_TestLevel
+[2020.08.12-05.59.42:210][830]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Elmin_Chernobyl/Maps/Cheronobyl_TestLevel_BuiltData.Cheronobyl_TestLevel_BuiltData
