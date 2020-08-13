@@ -1,8 +1,16 @@
+<<<<<<< Updated upstream
 ﻿Log file open, 08/13/20 16:10:28
 LogInit: Display: Running engine for game: AncientTemple
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 1.749664
+=======
+﻿Log file open, 08/13/20 17:15:14
+LogInit: Display: Running engine for game: AncientTemple
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.195904
+>>>>>>> Stashed changes
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -195,6 +203,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 [2020.08.13-06.10.29:124][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.08.13-06.10.29:124][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.08.13-06.10.29:124][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/user/Documents/RGP/Assessment 4 final/Disaster-Artist/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Engine.ini]
@@ -1058,3 +1067,1346 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.13-06.12.13:618][175]LogD3D11RHI: CleanupD3DDevice
 [2020.08.13-06.12.13:637][175]LogExit: Exiting.
 [2020.08.13-06.12.13:649][175]Log file closed, 08/13/20 16:12:13
+=======
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Engine.ini]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Engine.ini]
+[2020.08.13-07.15.14:659][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Engine.ini]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Engine.ini]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.13-07.15.14:659][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Engine.ini]
+[2020.08.13-07.15.14:659][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Engine.ini]
+[2020.08.13-07.15.14:665][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Scalability.ini]
+[2020.08.13-07.15.14:665][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.13-07.15.14:665][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.13-07.15.14:665][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Scalability.ini]
+[2020.08.13-07.15.14:665][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.13-07.15.14:665][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Scalability.ini]
+[2020.08.13-07.15.14:665][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.13-07.15.14:665][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.13-07.15.14:665][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.13-07.15.14:665][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.13-07.15.14:665][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.13-07.15.14:665][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.13-07.15.14:665][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.13-07.15.14:665][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.13-07.15.14:665][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Scalability.ini]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Scalability.ini]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Scalability.ini]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.13-07.15.14:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Scalability.ini]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Scalability.ini]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.13-07.15.14:667][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.13-07.15.14:667][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.13-07.15.14:667][  0]LogHAL: Display: Platform has ~ 32 GB [34311364608 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.13-07.15.14:667][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.13-07.15.14:667][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Scalability.ini]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Scalability.ini]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Scalability.ini]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Scalability.ini]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2020.08.13-07.15.14:667][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Scalability.ini]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Scalability.ini]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:2]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Scalability.ini]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Scalability.ini]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.13-07.15.14:668][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.13-07.15.14:669][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.13-07.15.14:669][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.13-07.15.14:669][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.08.13-07.15.14:669][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Config/Windows/Engine.ini]
+[2020.08.13-07.15.14:669][  0]LogInit: Computer: SEANS-RAVEN
+[2020.08.13-07.15.14:669][  0]LogInit: User: New
+[2020.08.13-07.15.14:669][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.08.13-07.15.14:669][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.13-07.15.14:669][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2020.08.13-07.15.14:669][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.13-07.15.14:669][  0]LogMemory: Process Physical Memory: 114.47 MB used, 114.47 MB peak
+[2020.08.13-07.15.14:669][  0]LogMemory: Process Virtual Memory: 96.14 MB used, 96.14 MB peak
+[2020.08.13-07.15.14:669][  0]LogMemory: Physical Memory: 11071.49 MB used,  21650.38 MB free, 32721.87 MB total
+[2020.08.13-07.15.14:669][  0]LogMemory: Virtual Memory: 5143.13 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.08.13-07.15.14:676][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.13-07.15.14:721][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.08.13-07.15.14:722][  0]LogInit: Using OS detected language (en-GB).
+[2020.08.13-07.15.14:723][  0]LogInit: Using OS detected locale (en-AU).
+[2020.08.13-07.15.14:724][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.08.13-07.15.14:910][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.13-07.15.14:954][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.13-07.15.14:954][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.13-07.15.15:099][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.08.13-07.15.15:099][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.13-07.15.15:099][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.13-07.15.15:099][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.13-07.15.15:177][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.08.13-07.15.15:177][  0]LogD3D11RHI:       8079/0/16360 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.08.13-07.15.15:180][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.13-07.15.15:180][  0]LogD3D11RHI:       0/0/16360 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.13-07.15.15:180][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.13-07.15.15:188][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.13-07.15.15:188][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.13-07.15.15:188][  0]LogWindows: EnumDisplayDevices:
+[2020.08.13-07.15.15:188][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.08.13-07.15.15:188][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.08.13-07.15.15:188][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.08.13-07.15.15:189][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.08.13-07.15.15:189][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.08.13-07.15.15:189][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.08.13-07.15.15:189][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.08.13-07.15.15:189][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.08.13-07.15.15:189][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.08.13-07.15.15:236][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.08.13-07.15.15:239][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.08.13-07.15.15:239][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.13-07.15.15:239][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.08.13-07.15.15:240][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061085).
+[2020.08.13-07.15.15:256][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.08.13-07.15.15:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.08.13-07.15.15:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.08.13-07.15.15:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.08.13-07.15.15:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.08.13-07.15.15:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.08.13-07.15.15:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.08.13-07.15.15:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.13-07.15.15:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.08.13-07.15.15:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.13-07.15.15:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.08.13-07.15.15:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.08.13-07.15.15:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.08.13-07.15.15:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.08.13-07.15.15:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.08.13-07.15.15:706][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.13-07.15.15:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.08.13-07.15.15:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.08.13-07.15.15:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.08.13-07.15.15:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.08.13-07.15.15:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.08.13-07.15.15:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.08.13-07.15.15:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.08.13-07.15.15:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.08.13-07.15.15:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.08.13-07.15.15:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.13-07.15.15:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.08.13-07.15.15:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.08.13-07.15.15:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.08.13-07.15.15:837][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.13-07.15.15:847][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.13-07.15.15:916][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Intermediate/Shaders/WorkingDirectory/20540/).
+[2020.08.13-07.15.15:916][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/New/AppData/Local/Temp/UnrealShaderWorkingDir/9595BAEB4F2148B22965A2A6F0BC8480/'.
+[2020.08.13-07.15.15:916][  0]LogXGEController: Cleaning working directory: C:/Users/New/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.08.13-07.15.15:917][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.13-07.15.15:917][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.13-07.15.15:917][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.13-07.15.16:704][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.13-07.15.16:757][  0]LogDerivedDataCache: Loaded boot cache 0.05s 76MB C:/Users/New/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.08.13-07.15.16:757][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/New/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.08.13-07.15.16:757][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.13-07.15.16:757][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.13-07.15.16:757][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.13-07.15.16:757][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.13-07.15.16:767][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.13-07.15.16:767][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.13-07.15.16:767][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.13-07.15.16:769][  0]LogDerivedDataCache: Using Local data cache path C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.13-07.15.16:769][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.13-07.15.16:769][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.13-07.15.16:821][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.13-07.15.16:821][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.13-07.15.16:847][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.08.13-07.15.17:112][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.13-07.15.17:233][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.13-07.15.17:233][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.13-07.15.17:233][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.13-07.15.17:233][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.13-07.15.17:233][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.13-07.15.17:250][  0]LogNetVersion: AncientTemple 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 258372913)
+[2020.08.13-07.15.17:676][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000025FB8CF1380), frame # 0
+[2020.08.13-07.15.17:676][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025FB9C211C0), frame # 0
+[2020.08.13-07.15.17:677][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025FB8C94A00), frame # 0
+[2020.08.13-07.15.17:741][  0]LogPackageLocalizationCache: Processed 20 localized package path(s) for 1 prioritized culture(s) in 0.057541 seconds
+[2020.08.13-07.15.17:746][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.08.13-07.15.17:746][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.08.13-07.15.17:746][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.13-07.15.18:097][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2020.08.13-07.15.18:108][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.13-07.15.18:112][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.13-07.15.18:167][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2020.08.13-07.15.18:168][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2020.08.13-07.15.18:168][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2020.08.13-07.15.18:204][  0]SourceControl: Source control is disabled
+[2020.08.13-07.15.18:204][  0]SourceControl: Source control is disabled
+[2020.08.13-07.15.18:207][  0]SourceControl: Source control is disabled
+[2020.08.13-07.15.18:210][  0]SourceControl: Source control is disabled
+[2020.08.13-07.15.18:217][  0]SourceControl: Source control is disabled
+[2020.08.13-07.15.18:473][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.13-07.15.18:495][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.13-07.15.18:495][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.13-07.15.18:545][  0]LogOcInput: OculusInput pre-init called
+[2020.08.13-07.15.18:556][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.13-07.15.18:556][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.13-07.15.18:671][  0]LogEngine: Initializing Engine...
+[2020.08.13-07.15.18:674][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.08.13-07.15.18:674][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.08.13-07.15.18:676][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.08.13-07.15.18:791][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.13-07.15.18:800][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.13-07.15.18:800][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025FBCD18C00), frame # 0
+[2020.08.13-07.15.18:800][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025FBCCE3B00), frame # 0
+[2020.08.13-07.15.18:824][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.13-07.15.18:824][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.13-07.15.18:824][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.13-07.15.18:824][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.13-07.15.18:824][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.13-07.15.18:824][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.13-07.15.18:824][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.13-07.15.18:824][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.13-07.15.18:824][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.13-07.15.18:824][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.13-07.15.18:845][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.13-07.15.18:845][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.13-07.15.18:891][  0]LogAudioMixer: Display: Using Audio Device Speakers (3- RIG 800HX)
+[2020.08.13-07.15.18:893][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.13-07.15.18:895][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.13-07.15.18:896][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.13-07.15.18:897][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.13-07.15.18:898][  0]LogInit: FAudioDevice initialized.
+[2020.08.13-07.15.18:898][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.13-07.15.18:974][  0]LogDerivedDataCache: Saved boot cache 0.08s 76MB C:/Users/New/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.08.13-07.15.18:978][  0]LogInit: Texture streaming: Enabled
+[2020.08.13-07.15.18:997][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.13-07.15.18:997][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.08.13-07.15.19:003][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.08.13-07.15.19:060][  0]LogInit: Transaction tracking system initialized
+[2020.08.13-07.15.19:088][  0]BlueprintLog: New page: Editor Load
+[2020.08.13-07.15.19:162][  0]LocalizationService: Localization service is disabled
+[2020.08.13-07.15.19:314][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.13-07.15.19:314][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.13-07.15.19:458][  0]LogFileCache: Scanning file cache for directory 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/' took 0.03s
+[2020.08.13-07.15.19:693][  0]SourceControl: Source control is disabled
+[2020.08.13-07.15.19:693][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.294
+[2020.08.13-07.15.19:693][  0]Cmd: MAP LOAD FILE="D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Project/Levels/Eumachia_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.13-07.15.19:694][  0]LogEditorServer: Warning: Can't find file 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Project/Levels/Eumachia_Level.umap'
+[2020.08.13-07.15.19:694][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.13-07.15.19:694][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2020.08.13-07.15.19:694][  0]LogFileHelpers: Loading map 'Eumachia_Level' took 0.001
+[2020.08.13-07.15.19:694][  0]LogAssetRegistry: Flushing asset discovery search because of synchronous request, this can take several seconds...
+[2020.08.13-07.15.19:747][  0]LogAssetRegistry: Asset discovery search completed in 0.0530 seconds
+[2020.08.13-07.15.19:758][  0]LogCollectionManager: Loaded 0 collections in 0.001199 seconds
+[2020.08.13-07.15.19:762][  0]LogFileCache: Scanning file cache for directory 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Collections/' took 0.00s
+[2020.08.13-07.15.19:763][  0]LogFileCache: Scanning file cache for directory 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Developers/New/Collections/' took 0.00s
+[2020.08.13-07.15.19:763][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2020.08.13-07.15.19:764][  0]LogFileCache: Scanning file cache for directory 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Collections/' took 0.00s
+[2020.08.13-07.15.19:764][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.365
+[2020.08.13-07.15.19:893][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.13-07.15.19:909][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 3437 classes and 827 folders.
+[2020.08.13-07.15.19:916][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.08.13-07.15.19:963][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.08.13-07.15.19:964][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2020.08.13-07.15.20:001][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.13-07.15.20:003][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.13-07.15.20:008][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.13-07.15.20:082][  0]LogRenderer: Reallocating scene render targets to support 1532x808 Format 10 NumSamples 1 (Frame:1).
+[2020.08.13-07.15.20:186][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.13-07.15.20:186][  0]LogLoad: (Engine Initialization) Total time: 6.79 seconds
+[2020.08.13-07.15.20:186][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.13-07.15.20:206][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2020.08.13-07.15.20:241][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2020.08.13-07.26.40:587][267]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.13-07.26.40:608][267]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.08.13-07.26.40:677][267]LogStaticMesh: Building static mesh Ash_Tray...
+[2020.08.13-07.26.40:685][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.08.13-07.26.40:685][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.08.13-07.26.40:685][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.08.13-07.26.40:685][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.13-07.26.40:685][267]LogStaticMesh: Built static mesh [0.01s] /Game/Derek_PearlHarbor_BP/Assets/Ash_Tray.Ash_Tray
+[2020.08.13-07.26.40:689][267]LogMaterial: Display: Missing cached shader map for material MetalBox, compiling. 
+[2020.08.13-07.26.40:700][267]LogStaticMesh: Building static mesh Bin...
+[2020.08.13-07.26.40:703][267]LogStaticMesh: Built static mesh [0.00s] /Game/Derek_PearlHarbor_BP/Assets/Bin.Bin
+[2020.08.13-07.26.40:706][267]LogStaticMesh: Building static mesh Bunker...
+[2020.08.13-07.26.40:711][267]LogStaticMesh: Built static mesh [0.00s] /Game/Derek_PearlHarbor_BP/Assets/Bunker.Bunker
+[2020.08.13-07.26.40:714][267]LogMaterial: Display: Missing cached shader map for material Chair1, compiling. 
+[2020.08.13-07.26.40:727][267]LogStaticMesh: Building static mesh Chair3...
+[2020.08.13-07.26.40:730][267]LogStaticMesh: Built static mesh [0.00s] /Game/Derek_PearlHarbor_BP/Assets/Chair3.Chair3
+[2020.08.13-07.26.40:734][267]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.08.13-07.26.40:744][267]LogStaticMesh: Building static mesh Clock...
+[2020.08.13-07.26.40:748][267]LogStaticMesh: Built static mesh [0.00s] /Game/Derek_PearlHarbor_BP/Assets/Clock.Clock
+[2020.08.13-07.26.40:753][267]LogMaterial: Display: Missing cached shader map for material Table_Colour, compiling. 
+[2020.08.13-07.26.40:771][267]LogStaticMesh: Building static mesh Comm_table...
+[2020.08.13-07.26.40:773][267]LogStaticMesh: Built static mesh [0.00s] /Game/Derek_PearlHarbor_BP/Assets/Comm_table.Comm_table
+[2020.08.13-07.26.40:776][267]LogStaticMesh: Building static mesh Fileing_Drawer...
+[2020.08.13-07.26.40:804][267]LogStaticMesh: Built static mesh [0.03s] /Game/Derek_PearlHarbor_BP/Assets/Fileing_Drawer.Fileing_Drawer
+[2020.08.13-07.26.40:815][267]LogTexture: Display: Building textures: Japan_flag (BGRA8, 220X147)
+[2020.08.13-07.26.40:815][267]LogMaterial: Display: Missing cached shader map for material Flag1, compiling. 
+[2020.08.13-07.26.40:835][267]LogStaticMesh: Building static mesh flag...
+[2020.08.13-07.26.40:838][267]LogStaticMesh: Built static mesh [0.00s] /Game/Derek_PearlHarbor_BP/Assets/flag.flag
+[2020.08.13-07.26.40:840][267]LogStaticMesh: Building static mesh Lamp...
+[2020.08.13-07.26.40:855][267]LogStaticMesh: Built static mesh [0.02s] /Game/Derek_PearlHarbor_BP/Assets/Lamp.Lamp
+[2020.08.13-07.26.40:861][267]LogMaterial: Display: Missing cached shader map for material Table_Top, compiling. 
+[2020.08.13-07.26.40:880][267]LogStaticMesh: Building static mesh Map_Table...
+[2020.08.13-07.26.40:893][267]LogStaticMesh: Built static mesh [0.01s] /Game/Derek_PearlHarbor_BP/Assets/Map_Table.Map_Table
+[2020.08.13-07.26.40:898][267]LogMaterial: Display: Missing cached shader map for material phong2, compiling. 
+[2020.08.13-07.26.40:918][267]LogMaterial: Display: Missing cached shader map for material Mic_Inside, compiling. 
+[2020.08.13-07.26.40:938][267]LogStaticMesh: Building static mesh Mic...
+[2020.08.13-07.26.40:977][267]LogStaticMesh: Built static mesh [0.04s] /Game/Derek_PearlHarbor_BP/Assets/Mic.Mic
+[2020.08.13-07.26.40:984][267]LogMaterial: Display: Missing cached shader map for material Pawn_Black1, compiling. 
+[2020.08.13-07.26.41:005][267]LogStaticMesh: Building static mesh Pawn_Black...
+[2020.08.13-07.26.41:031][267]LogStaticMesh: Built static mesh [0.03s] /Game/Derek_PearlHarbor_BP/Assets/Pawn_Black.Pawn_Black
+[2020.08.13-07.26.41:040][267]LogMaterial: Display: Missing cached shader map for material Pawn_Color_White, compiling. 
+[2020.08.13-07.26.41:060][267]LogStaticMesh: Building static mesh Pawn_White...
+[2020.08.13-07.26.41:087][267]LogStaticMesh: Built static mesh [0.03s] /Game/Derek_PearlHarbor_BP/Assets/Pawn_White.Pawn_White
+[2020.08.13-07.26.41:095][267]LogMaterial: Display: Missing cached shader map for material Dial_ring, compiling. 
+[2020.08.13-07.26.41:115][267]LogMaterial: Display: Missing cached shader map for material ButtonColour, compiling. 
+[2020.08.13-07.26.41:136][267]LogStaticMesh: Building static mesh Radio...
+[2020.08.13-07.26.41:170][267]LogStaticMesh: Built static mesh [0.03s] /Game/Derek_PearlHarbor_BP/Assets/Radio.Radio
+[2020.08.13-07.26.41:173][267]LogStaticMesh: Building static mesh stair_2...
+[2020.08.13-07.26.41:175][267]LogStaticMesh: Built static mesh [0.00s] /Game/Derek_PearlHarbor_BP/Assets/stair_2.stair_2
+[2020.08.13-07.26.41:178][267]LogStaticMesh: Building static mesh Stick_Holder...
+[2020.08.13-07.26.41:201][267]LogStaticMesh: Built static mesh [0.02s] /Game/Derek_PearlHarbor_BP/Assets/Stick_Holder.Stick_Holder
+[2020.08.13-07.26.41:207][267]LogMaterial: Display: Missing cached shader map for material Wood_stick, compiling. 
+[2020.08.13-07.26.41:227][267]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.08.13-07.26.41:245][267]LogStaticMesh: Building static mesh Stick_Thing...
+[2020.08.13-07.26.41:249][267]LogStaticMesh: Built static mesh [0.00s] /Game/Derek_PearlHarbor_BP/Assets/Stick_Thing.Stick_Thing
+[2020.08.13-07.26.41:512][267]LogSkeletalMesh: Building Skeletal Mesh SK_FPGun...
+[2020.08.13-07.26.41:566][267]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Derek_PearlHarbor/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2020.08.13-07.26.41:577][267]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin_Arms...
+[2020.08.13-07.26.41:646][267]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Derek_PearlHarbor/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2020.08.13-07.26.41:656][267]LogStaticMesh: Building static mesh FirstPersonProjectileMesh...
+[2020.08.13-07.26.41:662][267]LogStaticMesh: Built static mesh [0.01s] /Game/Derek_PearlHarbor/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2020.08.13-07.26.41:756][267]LogLinker: Warning: While loading 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level.umap' failed to load '/Game/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level_BuiltData': Can't find file.
+[2020.08.13-07.26.41:756][267]LogLinker: Warning: While loading 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level.umap' failed to load '/Game/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level_BuiltData': Can't find file.
+[2020.08.13-07.26.41:758][267]LogLinker: Warning: While loading 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level.umap' failed to load '/Game/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level_BuiltData': Can't find file.
+[2020.08.13-07.26.41:759][267]LogLinker: Warning: While loading 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level.umap' failed to load '/Game/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level_BuiltData': Can't find file.
+[2020.08.13-07.26.41:762][267]LogLinker: Warning: Failed to load '/Game/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level_BuiltData': Can't find file.
+[2020.08.13-07.26.41:762][267]LogLinker: Warning: Failed to load '/Game/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level_BuiltData': Can't find file.
+[2020.08.13-07.26.41:762][267]LogLinker: Warning: Failed to load '/Game/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level_BuiltData': Can't find file.
+[2020.08.13-07.26.41:762][267]LogLinker: Warning: Failed to load '/Game/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level_BuiltData': Can't find file.
+[2020.08.13-07.26.41:772][267]LogLinker: Warning: While loading 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level.umap' failed to load '/Game/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level_BuiltData': Can't find file.
+[2020.08.13-07.26.41:772][267]LoadErrors: Failed to load /Game/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level_BuiltData.Pearl_Harbor_level_BuiltData Referenced by PersistentLevel
+[2020.08.13-07.26.41:772][267]LogLinker: Warning: While loading 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level.umap' failed to load '/Game/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level_BuiltData': Can't find file.
+[2020.08.13-07.26.41:782][267]LogStaticMesh: Building static mesh 1M_Cube...
+[2020.08.13-07.26.41:787][267]LogStaticMesh: Built static mesh [0.00s] /Game/Elmin_Chernobyl_Assets/Meshes/1M_Cube.1M_Cube
+[2020.08.13-07.26.42:005][267]LogTexture: Display: Building textures: Clock_Clock_BaseColor (AutoDXT, 2048X2048)
+[2020.08.13-07.26.42:005][267]LogMaterial: Display: Missing cached shader map for material Clock_Clock_BaseColor_Mat, compiling. 
+[2020.08.13-07.26.42:197][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Ash_Tray.Ash_Tray' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/Ash_Tray.PackageMetaData'
+[2020.08.13-07.26.42:204][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Bin.Bin' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/Bin.PackageMetaData'
+[2020.08.13-07.26.42:212][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Bunker.Bunker' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/Bunker.PackageMetaData'
+[2020.08.13-07.26.42:220][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Chair3.Chair3' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/Chair3.PackageMetaData'
+[2020.08.13-07.26.42:228][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Clock.Clock' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/Clock.PackageMetaData'
+[2020.08.13-07.26.42:234][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Comm_table.Comm_table' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/Comm_table.PackageMetaData'
+[2020.08.13-07.26.42:242][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Fileing_Drawer.Fileing_Drawer' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/Fileing_Drawer.PackageMetaData'
+[2020.08.13-07.26.42:249][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/flag.flag' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/flag.PackageMetaData'
+[2020.08.13-07.26.42:256][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Lamp.Lamp' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/Lamp.PackageMetaData'
+[2020.08.13-07.26.42:264][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Map_Table.Map_Table' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/Map_Table.PackageMetaData'
+[2020.08.13-07.26.42:271][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Mic.Mic' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/Mic.PackageMetaData'
+[2020.08.13-07.26.42:278][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Pawn_Black.Pawn_Black' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/Pawn_Black.PackageMetaData'
+[2020.08.13-07.26.42:285][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Pawn_White.Pawn_White' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/Pawn_White.PackageMetaData'
+[2020.08.13-07.26.42:292][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Radio.Radio' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/Radio.PackageMetaData'
+[2020.08.13-07.26.42:298][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/stair_2.stair_2' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/stair_2.PackageMetaData'
+[2020.08.13-07.26.42:306][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Stick_Holder.Stick_Holder' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/Stick_Holder.PackageMetaData'
+[2020.08.13-07.26.42:312][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Stick_Thing.Stick_Thing' ref from Metadata '/Game/Derek_PearlHarbor_BP/Assets/Stick_Thing.PackageMetaData'
+[2020.08.13-07.26.42:321][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.08.13-07.26.42:321][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_157' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.08.13-07.26.42:321][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_172' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.08.13-07.26.42:321][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_181' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.08.13-07.26.42:321][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_192' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.08.13-07.26.42:321][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_34' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.08.13-07.26.42:321][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_62' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.08.13-07.26.42:321][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.08.13-07.26.42:321][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.08.13-07.26.42:321][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.08.13-07.26.42:321][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.08.13-07.26.42:321][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.08.13-07.26.42:328][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2020.08.13-07.26.42:328][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonGameMode.SKEL_FirstPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2020.08.13-07.26.42:328][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonGameMode.SKEL_FirstPersonGameMode_C' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2020.08.13-07.26.42:336][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonHUD.FirstPersonHUD_C' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2020.08.13-07.26.42:336][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C:ReceiveDrawHUD' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2020.08.13-07.26.42:336][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C:UserConstructionScript' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2020.08.13-07.26.42:336][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonHUD.SKEL_FirstPersonHUD_C' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2020.08.13-07.26.42:336][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ReceiveDrawHUD' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonHUD.PackageMetaData'
+[2020.08.13-07.26.42:346][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2020.08.13-07.26.42:346][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C:ReceiveHit' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2020.08.13-07.26.42:346][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C:UserConstructionScript' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2020.08.13-07.26.42:346][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2020.08.13-07.26.42:346][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ReceiveHit' ref from Metadata '/Game/Derek_PearlHarbor_BP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2020.08.13-07.26.42:386][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.08.13-07.26.42:389][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level.Pearl_Harbor_level_C' ref from Metadata '/Game/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level.PackageMetaData'
+[2020.08.13-07.26.42:389][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level.SKEL_Pearl_Harbor_level_C' ref from Metadata '/Game/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level.PackageMetaData'
+[2020.08.13-07.26.43:110][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 351
+[2020.08.13-07.26.44:773][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 341
+[2020.08.13-07.26.45:259][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 331
+[2020.08.13-07.26.45:259][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 321
+[2020.08.13-07.26.45:492][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/lambert13AE6607348052D29C2CB9DB2772168CA.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/lambert1.uasset'
+[2020.08.13-07.26.45:604][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Ash_Tray4703BE6D48BAA9623AA870BC7C98BAA2.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Ash_Tray.uasset'
+[2020.08.13-07.26.45:650][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Bin54361F5E4EEA967E8E67A28DBF26D674.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Bin.uasset'
+[2020.08.13-07.26.45:714][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/BunkerC740C46B4DAF9E5D493095BABB8F567F.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Bunker.uasset'
+[2020.08.13-07.26.45:760][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Chair3213AAF684A1CD33340CE6C8633155426.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Chair3.uasset'
+[2020.08.13-07.26.45:806][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/ClockA0B2F2C24A451EB0DB1349898D51A2F8.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Clock.uasset'
+[2020.08.13-07.26.45:852][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Comm_table4693BAC64D8374C61EF7A3B41A66CDF4.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Comm_table.uasset'
+[2020.08.13-07.26.45:909][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Fileing_Drawer7B4A3D4C4D4FBBAED205A8ACE9A7F767.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Fileing_Drawer.uasset'
+[2020.08.13-07.26.45:952][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/flagEFA39E1C49C81F3794DEF5B7F434641A.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/flag.uasset'
+[2020.08.13-07.26.46:001][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Lamp5DADE62C4A25FCEE4C784A979416FE7D.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Lamp.uasset'
+[2020.08.13-07.26.46:012][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Lamp3523BC734FA7E9761A1555A3F6FB1AB4.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbor_BP/Assets/Lamp.uasset'
+[2020.08.13-07.26.46:059][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Map_TableB637ED6C4A435F601F8974945DDED390.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Map_Table.uasset'
+[2020.08.13-07.26.46:118][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/MicC2BF3C80482D27C8C0E7EF98AE2CA423.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Mic.uasset'
+[2020.08.13-07.26.46:170][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Pawn_BlackEAD936C54AF1122210393BA89A6000C3.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Pawn_Black.uasset'
+[2020.08.13-07.26.46:224][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Pawn_WhiteFB094926487BDA973A0C528DCEACE63B.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Pawn_White.uasset'
+[2020.08.13-07.26.46:279][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Radio6DE2770B408414D2C29A94B36753BFCE.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Radio.uasset'
+[2020.08.13-07.26.46:325][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/stair_2E244E01D4B49A0A38C38A3AA4DA5B9A5.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/stair_2.uasset'
+[2020.08.13-07.26.46:376][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Stick_HolderE31FAC3848B8C408B010DC9F46AD95B1.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Stick_Holder.uasset'
+[2020.08.13-07.26.46:422][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Stick_Thing5C6FF110430A2A97B3D8DAA9D1585F4C.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Stick_Thing.uasset'
+[2020.08.13-07.26.46:566][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/FirstPersonCharacter8B44982243186ABFF607B18C818792A5.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.uasset'
+[2020.08.13-07.26.46:583][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/FirstPersonGameModeBAF7150E46F716E069F6E3AF9A08D64A.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonGameMode.uasset'
+[2020.08.13-07.26.46:608][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/FirstPersonHUDF408883747A4E97C385ACA9B511D5D17.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonHUD.uasset'
+[2020.08.13-07.26.46:676][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/FirstPersonProjectileDCF733E94F01793182005588C28C1BC3.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonProjectile.uasset'
+[2020.08.13-07.26.46:691][267]PIE: Warning: Trying to simulate physics on ''/Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level.Pearl_Harbor_level:PersistentLevel.Bin_15.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2020.08.13-07.26.46:714][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.08.13-07.26.46:822][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Pearl_Harbor_level92088DFC461AEEB7FF4D5182C0E6030D.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level.umap'
+[2020.08.13-07.26.46:837][267]LogFileHelpers: Saving map 'Pearl_Harbor_level' took 0.158
+[2020.08.13-07.26.47:954][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 311
+[2020.08.13-07.26.48:514][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 301
+[2020.08.13-07.26.49:072][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 291
+[2020.08.13-07.26.50:748][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 281
+[2020.08.13-07.26.51:307][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 271
+[2020.08.13-07.26.52:983][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 261
+[2020.08.13-07.26.52:983][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 251
+[2020.08.13-07.26.54:655][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 241
+[2020.08.13-07.26.55:213][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 231
+[2020.08.13-07.26.56:890][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 221
+[2020.08.13-07.26.57:448][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 211
+[2020.08.13-07.26.59:123][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 201
+[2020.08.13-07.26.59:123][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 191
+[2020.08.13-07.27.00:241][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 181
+[2020.08.13-07.27.01:918][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 171
+[2020.08.13-07.27.02:477][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 161
+[2020.08.13-07.27.03:595][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 151
+[2020.08.13-07.27.04:153][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 141
+[2020.08.13-07.27.05:830][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 131
+[2020.08.13-07.27.06:948][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 121
+[2020.08.13-07.27.06:948][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 111
+[2020.08.13-07.27.08:624][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 101
+[2020.08.13-07.27.09:184][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 91
+[2020.08.13-07.27.10:860][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 81
+[2020.08.13-07.27.10:860][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 71
+[2020.08.13-07.27.11:978][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 61
+[2020.08.13-07.27.13:653][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2020.08.13-07.27.13:910][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2020.08.13-07.27.14:141][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/ButtonColour289A22C34D5AF9B219589FA3E06BD157.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/ButtonColour.uasset'
+[2020.08.13-07.27.14:186][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Chair1FB105E3D46743BD515390A919E7B7D90.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Chair1.uasset'
+[2020.08.13-07.27.14:211][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Clock_Clock_BaseColorDB969016427B82FAAF22218FB9916EAF.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Clock_Clock_BaseColor.uasset'
+[2020.08.13-07.27.15:333][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2020.08.13-07.27.15:892][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.08.13-07.27.17:568][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.08.13-07.27.18:127][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.08.13-07.27.18:686][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.08.13-07.27.18:686][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.08.13-07.27.18:686][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.13-07.27.19:660][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.08.13-07.27.19:660][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.08.13-07.27.19:720][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Clock_Clock_BaseColor_MatCE56A5A946B04C51DE0C6B85E00BD753.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Clock_Clock_BaseColor_Mat.uasset'
+[2020.08.13-07.27.19:754][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Dial_ringE306949444C42777AC330E96F42E1F54.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Dial_ring.uasset'
+[2020.08.13-07.27.19:788][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Flag155837A7A44DBDCA429ADC7A416290492.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Flag1.uasset'
+[2020.08.13-07.27.19:799][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Japan_flag7C39C9F34B030136BCC27EB6DC8DCEB0.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Japan_flag.uasset'
+[2020.08.13-07.27.19:832][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/lambert1563041F942E4046041BC3CA6E3AB6AAA.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/lambert1.uasset'
+[2020.08.13-07.27.19:872][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/lambert4751C123D4BC94A809870AA9DA5C054F5.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/lambert4.uasset'
+[2020.08.13-07.27.19:906][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/MetalBox8E1784384E528E92F9F6528579FBE343.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/MetalBox.uasset'
+[2020.08.13-07.27.19:939][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Mic_Inside762D307645C0A4A669D396BEF067BCD7.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Mic_Inside.uasset'
+[2020.08.13-07.27.19:972][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Pawn_Black1FB63BF054420740976BAFB8F31FD66E5.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Pawn_Black1.uasset'
+[2020.08.13-07.27.20:006][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Pawn_Color_WhiteB2ACFDEC4650D8FD75BD638FFC4C9374.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Pawn_Color_White.uasset'
+[2020.08.13-07.27.20:041][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/phong2AEAFFB844D4EF0A8E950B7A09114F796.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/phong2.uasset'
+[2020.08.13-07.27.20:091][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Table_Colour92D5EC0F474F5B2428FD21B96A2B4C3A.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Table_Colour.uasset'
+[2020.08.13-07.27.20:126][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Table_Top15AA6CB3468E71BAA425889A3E4898D0.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Table_Top.uasset'
+[2020.08.13-07.27.20:161][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/Wood_stick4DADFC50435905457D443DB40FEBE632.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Wood_stick.uasset'
+[2020.08.13-07.27.21:494][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.08.13-07.27.21:503][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.08.13-07.27.21:512][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.08.13-07.27.21:520][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.08.13-07.27.21:528][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.08.13-07.27.21:537][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.08.13-07.27.21:545][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:553][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.08.13-07.27.21:560][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:568][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.08.13-07.27.21:576][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2020.08.13-07.27.21:584][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:592][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:600][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.08.13-07.27.21:608][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.08.13-07.27.21:617][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:625][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.08.13-07.27.21:633][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.08.13-07.27.21:642][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.08.13-07.27.21:650][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.08.13-07.27.21:659][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.08.13-07.27.21:667][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.08.13-07.27.21:675][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:683][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.08.13-07.27.21:691][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.08.13-07.27.21:702][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:710][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.08.13-07.27.21:718][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:726][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:734][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:741][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:749][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:757][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.08.13-07.27.21:765][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:773][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:780][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:787][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:795][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:803][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.08.13-07.27.21:819][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.08.13-07.27.21:828][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.08.13-07.27.21:896][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C' ref from Metadata '/Game/Derek_PearlHarbor/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2020.08.13-07.27.21:896][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_AnimBP.SKEL_FirstPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Derek_PearlHarbor/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2020.08.13-07.27.21:896][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_AnimBP.SKEL_FirstPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/Derek_PearlHarbor/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2020.08.13-07.27.21:896][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_AnimBP.SKEL_FirstPerson_AnimBP_C' ref from Metadata '/Game/Derek_PearlHarbor/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2020.08.13-07.27.21:896][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Derek_PearlHarbor/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2020.08.13-07.27.21:896][267]LogMetaData: Removing '/Game/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/Derek_PearlHarbor/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2020.08.13-07.27.22:159][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/SK_Mannequin_Arms_Skeleton716A9E30479236F8948439BF2BC87657.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2020.08.13-07.27.22:209][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/FirstPerson_IdleBF2151F946FC431E3F97A6B357172A86.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_Idle.uasset'
+[2020.08.13-07.27.22:243][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/FirstPerson_JumpEnd66FD2F6649E5560ADB8A3AA60F44D5B1.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_JumpEnd.uasset'
+[2020.08.13-07.27.22:277][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/FirstPerson_JumpLoop7A126C504ECFFAA4BC4C51B2CA0896F0.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_JumpLoop.uasset'
+[2020.08.13-07.27.22:312][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/FirstPerson_JumpStartE35F67694CECC1FDD994DDA48464AFCF.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_JumpStart.uasset'
+[2020.08.13-07.27.22:346][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/FirstPerson_Run60A92F5D4A45B68AF26137816B5C3B68.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_Run.uasset'
+[2020.08.13-07.27.22:431][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/FirstPerson_AnimBPF3752D8B438FB5CD7A6F48A4BAE84BCE.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_AnimBP.uasset'
+[2020.08.13-07.27.22:467][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/FirstPerson_Fire2175D94146E2B3563994D0AD3D993703.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_Fire.uasset'
+[2020.08.13-07.27.22:502][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/FirstPersonFire_Montage648B74E34D8BAC4BA14AA286A2656CB4.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPersonFire_Montage.uasset'
+[2020.08.13-07.27.22:538][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/BaseMaterial10782668469BFAFACB83919A9719631E.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Meshes/BaseMaterial.uasset'
+[2020.08.13-07.27.22:573][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/FirstPersonProjectileMaterial346B934F4B27056960D9D3BF0C2B4F3F.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Meshes/FirstPersonProjectileMaterial.uasset'
+[2020.08.13-07.27.22:613][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/FirstPersonProjectileMesh6B8B933445155826BBB4AD8E833F820B.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Meshes/FirstPersonProjectileMesh.uasset'
+[2020.08.13-07.27.22:625][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/FirstPersonTemplateWeaponFire024A625D174822200229C4AC9478BAD548.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Audio/FirstPersonTemplateWeaponFire02.uasset'
+[2020.08.13-07.27.22:688][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/T_ML_Rubber_Blue_01_DEDDA94C8437F1DDEEF290C8455D03BC5.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2020.08.13-07.27.22:742][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/T_ML_Rubber_Blue_01_ND8B1D9B14CA753B488A4EC9D73E9CE02.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2020.08.13-07.27.22:748][267]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.08.13-07.27.22:784][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.08.13-07.27.22:784][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.08.13-07.27.22:784][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.08.13-07.27.22:784][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.08.13-07.27.22:829][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/ML_GlossyBlack_Latex_UE4AA4C95AF4E6543A33C2EADBAAC77BB0A.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2020.08.13-07.27.22:834][267]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.08.13-07.27.22:897][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/ML_Plastic_Shiny_Beige1690AA54484640CF924829828A9F4DFA.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2020.08.13-07.27.22:919][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/UE4_LOGO_CARD061A17F945210E3AE43EA38DA042AE4C.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Character/Textures/UE4_LOGO_CARD.uasset'
+[2020.08.13-07.27.22:924][267]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.08.13-07.27.22:992][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/ML_Plastic_Shiny_Beige_LOGODC1B156A4F9453A631D68CA2E081EADC.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2020.08.13-07.27.23:120][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/T_ML_Aluminum012A8C4AA340CE88757921D484416C990D.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2020.08.13-07.27.23:188][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/T_ML_Aluminum01_N209454234E462D67E33F4C9F21565D0D.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2020.08.13-07.27.23:193][267]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.08.13-07.27.23:261][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/ML_SoftMetal_UE4BF450F094A7CBB60FC15838B0C2E5860.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2020.08.13-07.27.23:346][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/UE4_Mannequin__normals66414B384005CD98C8A6368BDB21D4FE.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Character/Textures/UE4_Mannequin__normals.uasset'
+[2020.08.13-07.27.23:372][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/UE4_Mannequin_MAT_MASKA5CB4EF6D4BF18BC1D3787188136099D7.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2020.08.13-07.27.23:440][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/M_UE4Man_Body218CEDC3474D4D6C8B63158845D8754D.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/M_UE4Man_Body.uasset'
+[2020.08.13-07.27.23:496][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/SK_Mannequin_Arms_PhysicsAssetA8C62E7E4C3485D94B2A9E90D3E71C3C.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset'
+[2020.08.13-07.27.23:678][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/SK_Mannequin_ArmsA71B7E794E981B1DD36F67A500D2DE16.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Character/Mesh/SK_Mannequin_Arms.uasset'
+[2020.08.13-07.27.23:758][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/T_ML_Rubber_Blue_01_DC6AB373B47FC802597CF30B8F3500583.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2020.08.13-07.27.23:832][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/T_ML_Rubber_Blue_01_N97663B264E56D5300B88F2AB76E402C9.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2020.08.13-07.27.23:838][267]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2020.08.13-07.27.23:905][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/ML_GlossyBlack_Latex_UE4C8ED6568414545E04046E7AF9150408E.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2020.08.13-07.27.23:910][267]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2020.08.13-07.27.23:978][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/ML_Plastic_Shiny_Beige0DD23AC94E85B3333108828B1EC608EE.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2020.08.13-07.27.23:983][267]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2020.08.13-07.27.24:049][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/ML_ScreenFEF57E6847298D39019DC894FE95381C.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset'
+[2020.08.13-07.27.24:178][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/T_ML_Aluminum01EFA3BC7345035AAE95A6539A9B784102.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2020.08.13-07.27.24:254][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/T_ML_Aluminum01_N67B0D13F4CB0569A0FF88CB5B3D7842F.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2020.08.13-07.27.24:260][267]LogMaterial: Display: Missing cached shader map for material Material_7, compiling. 
+[2020.08.13-07.27.24:328][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/ML_SoftMetal_UE442C0DC954833BB0937830685BBA47B49.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2020.08.13-07.27.24:352][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/T_FPGun_MAFA4CB9C47C47FCA41920A8038E1E90A.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Textures/T_FPGun_M.uasset'
+[2020.08.13-07.27.24:397][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/T_FPGun_NA6F40A564E0074F13930CA84CFC75337.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Textures/T_FPGun_N.uasset'
+[2020.08.13-07.27.24:447][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/M_FPGun2AD4B73240D6157AE74755B1D1F59EDB.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/M_FPGun.uasset'
+[2020.08.13-07.27.24:458][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/SK_FPGun_Skeleton88EDF1FC4D4057C32A2D48A7C983E333.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset'
+[2020.08.13-07.27.24:578][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/SK_FPGun9A21325A4D15AE30FCFD11B09336D505.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Mesh/SK_FPGun.uasset'
+[2020.08.13-07.27.24:587][267]LogSavePackage: Moving 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Saved/FirstPersonCrosshair0BE2E7A34591D9608011F29D1D818692.tmp' to 'D:/2020_T2/RGP/A4 Game/Git_Repository/Disaster-Artist/UnrealProject/AncientTemple/Content/Derek_PearlHarbour/Derek_PearlHarbor/Textures/FirstPersonCrosshair.uasset'
+[2020.08.13-07.27.25:460][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 238
+[2020.08.13-07.27.25:664][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 228
+[2020.08.13-07.27.25:864][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 218
+[2020.08.13-07.27.26:080][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 208
+[2020.08.13-07.27.26:845][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.08.13-07.27.26:855][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.08.13-07.27.26:865][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.08.13-07.27.26:874][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.08.13-07.27.26:884][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.08.13-07.27.26:894][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.08.13-07.27.26:904][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.08.13-07.27.26:914][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.08.13-07.27.26:924][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.08.13-07.27.26:934][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.08.13-07.27.26:943][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.08.13-07.27.26:953][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.08.13-07.27.26:962][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.08.13-07.27.26:972][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.08.13-07.27.26:982][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.08.13-07.27.26:993][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.08.13-07.27.27:001][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.08.13-07.27.27:010][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.08.13-07.27.27:019][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.08.13-07.27.27:028][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.08.13-07.27.27:038][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.08.13-07.27.27:054][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.08.13-07.27.27:064][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.08.13-07.27.27:073][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.08.13-07.27.27:082][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.08.13-07.27.27:091][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.08.13-07.27.27:100][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.08.13-07.27.27:109][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.08.13-07.27.27:118][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.08.13-07.27.27:128][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.08.13-07.27.27:137][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.08.13-07.27.27:146][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.08.13-07.27.27:156][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.08.13-07.27.27:166][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.08.13-07.27.27:175][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.08.13-07.27.27:185][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.08.13-07.27.27:194][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.08.13-07.27.27:203][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.08.13-07.27.27:212][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.08.13-07.27.27:222][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.08.13-07.27.27:231][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.08.13-07.27.27:253][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.08.13-07.27.27:263][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.08.13-07.27.27:530][267]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.13-07.27.27:530][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/lambert1.lambert1
+[2020.08.13-07.27.27:530][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Ash_Tray.Ash_Tray
+[2020.08.13-07.27.27:530][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Bin.Bin
+[2020.08.13-07.27.27:530][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Bunker.Bunker
+[2020.08.13-07.27.27:530][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Chair3.Chair3
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Clock.Clock
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Comm_table.Comm_table
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Fileing_Drawer.Fileing_Drawer
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/flag.flag
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Lamp.Lamp
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating ObjectRedirector /Game/Derek_PearlHarbor_BP/Assets/Lamp.Lamp
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Map_Table.Map_Table
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Mic.Mic
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Pawn_Black.Pawn_Black
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Pawn_White.Pawn_White
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Radio.Radio
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/stair_2.stair_2
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Stick_Holder.Stick_Holder
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Assets/Stick_Thing.Stick_Thing
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating Blueprint /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating Blueprint /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating Blueprint /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating Blueprint /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating World /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Maps/Pearl_Harbor_level.Pearl_Harbor_level
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/ButtonColour.ButtonColour
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Chair1.Chair1
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating Texture2D /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Clock_Clock_BaseColor.Clock_Clock_BaseColor
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Clock_Clock_BaseColor_Mat.Clock_Clock_BaseColor_Mat
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Dial_ring.Dial_ring
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Flag1.Flag1
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating Texture2D /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Japan_flag.Japan_flag
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/lambert1.lambert1
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/lambert4.lambert4
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/MetalBox.MetalBox
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Mic_Inside.Mic_Inside
+[2020.08.13-07.27.27:531][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Pawn_Black1.Pawn_Black1
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Pawn_Color_White.Pawn_Color_White
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/phong2.phong2
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Table_Colour.Table_Colour
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Table_Top.Table_Top
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor_BP/Materials/Wood_stick.Wood_stick
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating Skeleton /Game/Derek_PearlHarbour/Derek_PearlHarbor/Character/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating AnimSequence /Game/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_Idle.FirstPerson_Idle
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating AnimSequence /Game/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_JumpEnd.FirstPerson_JumpEnd
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating AnimSequence /Game/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_JumpLoop.FirstPerson_JumpLoop
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating AnimSequence /Game/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_JumpStart.FirstPerson_JumpStart
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating AnimSequence /Game/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_Run.FirstPerson_Run
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating AnimBlueprint /Game/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating AnimSequence /Game/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPerson_Fire.FirstPerson_Fire
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating AnimMontage /Game/Derek_PearlHarbour/Derek_PearlHarbor/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor/Meshes/BaseMaterial.BaseMaterial
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Derek_PearlHarbour/Derek_PearlHarbor/Meshes/FirstPersonProjectileMaterial.FirstPersonProjectileMaterial
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating StaticMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating SoundWave /Game/Derek_PearlHarbour/Derek_PearlHarbor/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating Texture2D /Game/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating Texture2D /Game/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating MaterialFunction /Game/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating MaterialFunction /Game/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating Texture2D /Game/Derek_PearlHarbour/Derek_PearlHarbor/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating MaterialFunction /Game/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating Texture2D /Game/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating Texture2D /Game/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating MaterialFunction /Game/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating Texture2D /Game/Derek_PearlHarbour/Derek_PearlHarbor/Character/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating Texture2D /Game/Derek_PearlHarbour/Derek_PearlHarbor/Character/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor/Character/Materials/M_UE4Man_Body.M_UE4Man_Body
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating PhysicsAsset /Game/Derek_PearlHarbour/Derek_PearlHarbor/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.SK_Mannequin_Arms_PhysicsAsset
+[2020.08.13-07.27.27:532][267]LogContentValidation: Display: Validating SkeletalMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2020.08.13-07.27.27:533][267]LogContentValidation: Display: Validating Texture2D /Game/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2020.08.13-07.27.27:533][267]LogContentValidation: Display: Validating Texture2D /Game/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+[2020.08.13-07.27.27:533][267]LogContentValidation: Display: Validating MaterialFunction /Game/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+[2020.08.13-07.27.27:533][267]LogContentValidation: Display: Validating MaterialFunction /Game/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+[2020.08.13-07.27.27:533][267]LogContentValidation: Display: Validating MaterialFunction /Game/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen
+[2020.08.13-07.27.27:533][267]LogContentValidation: Display: Validating Texture2D /Game/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+[2020.08.13-07.27.27:533][267]LogContentValidation: Display: Validating Texture2D /Game/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2020.08.13-07.27.27:533][267]LogContentValidation: Display: Validating MaterialFunction /Game/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+[2020.08.13-07.27.27:533][267]LogContentValidation: Display: Validating Texture2D /Game/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Textures/T_FPGun_M.T_FPGun_M
+[2020.08.13-07.27.27:533][267]LogContentValidation: Display: Validating Texture2D /Game/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Textures/T_FPGun_N.T_FPGun_N
+[2020.08.13-07.27.27:533][267]LogContentValidation: Display: Validating Material /Game/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Materials/M_FPGun.M_FPGun
+[2020.08.13-07.27.27:533][267]LogContentValidation: Display: Validating Skeleton /Game/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Mesh/SK_FPGun_Skeleton.SK_FPGun_Skeleton
+[2020.08.13-07.27.27:533][267]LogContentValidation: Display: Validating SkeletalMesh /Game/Derek_PearlHarbour/Derek_PearlHarbor/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2020.08.13-07.27.27:533][267]LogContentValidation: Display: Validating Texture2D /Game/Derek_PearlHarbour/Derek_PearlHarbor/Textures/FirstPersonCrosshair.FirstPersonCrosshair
+[2020.08.13-07.27.28:651][299]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 198
+[2020.08.13-07.27.29:420][349]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 188
+[2020.08.13-07.27.30:008][418]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 178
+[2020.08.13-07.27.30:070][424]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 168
+[2020.08.13-07.27.32:715][733]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 158
+[2020.08.13-07.27.33:525][828]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 148
+[2020.08.13-07.27.33:760][856]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 138
+[2020.08.13-07.27.34:248][914]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 128
+[2020.08.13-07.27.37:201][260]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 118
+[2020.08.13-07.27.37:444][289]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 108
+[2020.08.13-07.27.37:939][346]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 98
+[2020.08.13-07.27.38:899][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 88
+[2020.08.13-07.27.41:220][731]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 78
+[2020.08.13-07.27.41:591][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 68
+[2020.08.13-07.27.41:735][791]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2020.08.13-07.27.43:531][993]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2020.08.13-07.27.44:961][161]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2020.08.13-07.27.45:260][197]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.08.13-07.27.46:234][312]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.08.13-07.27.47:542][468]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.08.13-07.27.48:321][561]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.08.13-07.27.48:996][639]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.13-07.27.49:097][650]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.08.13-07.27.49:179][659]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.13-07.27.49:371][682]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.13-07.27.49:574][706]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.08.13-07.29.48:436][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.08.13-07.29.51:883][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.08.13-07.29.51:904][790]LogSlate: Window 'AncientTemple - Unreal Editor' being destroyed
+[2020.08.13-07.29.51:906][790]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.13-07.29.51:999][790]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.08.13-07.29.52:017][791]Cmd: QUIT_EDITOR
+[2020.08.13-07.29.52:017][791]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.08.13-07.29.52:026][791]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.08.13-07.29.52:056][791]LogExit: Preparing to exit.
+[2020.08.13-07.29.52:661][791]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-07.29.52:661][791]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-07.29.52:661][791]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-07.29.52:661][791]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-07.29.52:662][791]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-07.29.52:662][791]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-07.29.52:662][791]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-07.29.52:662][791]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-07.29.52:662][791]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-07.29.52:674][791]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.08.13-07.29.52:679][791]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.08.13-07.29.52:679][791]LogExit: Editor shut down
+[2020.08.13-07.29.52:680][791]LogExit: Transaction tracking system shut down
+[2020.08.13-07.29.52:867][791]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000025FB8CF1380), frame # 33791
+[2020.08.13-07.29.52:867][791]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025FB9C211C0), frame # 33791
+[2020.08.13-07.29.52:867][791]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025FB8C94A00), frame # 33791
+[2020.08.13-07.29.52:868][791]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025FBCD18C00), frame # 33791
+[2020.08.13-07.29.52:868][791]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025FBCCE3B00), frame # 33791
+[2020.08.13-07.29.52:893][791]LogExit: Object subsystem successfully closed.
+[2020.08.13-07.29.52:914][791]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.08.13-07.29.52:926][791]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (798)
+[2020.08.13-07.29.52:926][791]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (796)
+[2020.08.13-07.29.52:926][791]LogModuleManager: Shutting down and abandoning module SceneOutliner (794)
+[2020.08.13-07.29.52:926][791]LogModuleManager: Shutting down and abandoning module AddContentDialog (792)
+[2020.08.13-07.29.52:926][791]LogModuleManager: Shutting down and abandoning module WidgetCarousel (791)
+[2020.08.13-07.29.52:926][791]LogModuleManager: Shutting down and abandoning module EditorWidgets (788)
+[2020.08.13-07.29.52:926][791]LogModuleManager: Shutting down and abandoning module CollectionManager (786)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (784)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module FoliageEdit (782)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module LandscapeEditor (780)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module MeshPaintMode (778)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (776)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module ActorPickerMode (774)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (772)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (770)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module AutomationWorker (768)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module SteamVREditor (766)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module OculusMR (764)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module GooglePADEditor (762)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (760)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (758)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (756)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (754)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (752)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (750)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (748)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (746)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (744)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module WebMMedia (742)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (740)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (738)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module SequenceRecorder (737)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (734)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (732)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (730)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (728)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (726)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (724)
+[2020.08.13-07.29.52:927][791]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (722)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (720)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (718)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (716)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module PlanarCut (714)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module CharacterAI (712)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module TextureAlignMode (710)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module BspMode (708)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module PlacementMode (707)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module GeometryMode (704)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (702)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module SmartSnapping (700)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module SessionServices (698)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module MeshPaint (696)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module ViewportSnapping (694)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module ViewportInteraction (692)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module ClothPainter (690)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (689)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module LogVisualizer (686)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module IntroTutorials (684)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (683)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (680)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (678)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (676)
+[2020.08.13-07.29.52:928][791]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (675)
+[2020.08.13-07.29.53:698][791]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (672)
+[2020.08.13-07.29.53:698][791]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (670)
+[2020.08.13-07.29.53:698][791]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (668)
+[2020.08.13-07.29.53:698][791]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (666)
+[2020.08.13-07.29.53:698][791]LogModuleManager: Shutting down and abandoning module TraceInsights (664)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module TraceServices (663)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (660)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (658)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module InputBindingEditor (656)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module MergeActors (654)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (652)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module LocalizationService (651)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module HardwareTargeting (648)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (646)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module UndoHistory (644)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module XmlParser (642)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module Blutility (640)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (638)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (637)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (634)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module SettingsEditor (632)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module ProjectLauncher (630)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module SessionFrontend (628)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module ProfilerClient (626)
+[2020.08.13-07.29.53:699][791]LogModuleManager: Shutting down and abandoning module DeviceManager (624)
+[2020.08.13-07.29.53:700][791]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (623)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module AutomationController (620)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module AutomationWindow (618)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module Layers (616)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (614)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module DetailCustomizations (612)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module PackagesDialog (610)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (608)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module Persona (606)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (605)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module AnimGraph (603)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module Kismet (600)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module KismetWidgets (599)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module GraphEditor (596)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module StructViewer (594)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module ClassViewer (592)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module Toolbox (590)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module ModuleUI (588)
+[2020.08.13-07.29.53:733][791]LogModuleManager: Shutting down and abandoning module OutputLog (586)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module GammaUI (584)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module Documentation (582)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module LiveCoding (580)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module LevelSequence (578)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (576)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module MovieScene (574)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (572)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module LauncherPlatform (570)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module AnalyticsET (568)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module PortalServices (566)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module PortalRpc (564)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module MessagingRpc (562)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (560)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module AudioMixerCore (559)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module AIModule (556)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module GameplayDebugger (555)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module AITestSuite (553)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module NavigationSystem (551)
+[2020.08.13-07.29.53:734][791]LogModuleManager: Shutting down and abandoning module ProfilerService (548)
+[2020.08.13-07.29.53:929][791]LogModuleManager: Shutting down and abandoning module TaskGraph (546)
+[2020.08.13-07.29.53:929][791]LogModuleManager: Shutting down and abandoning module SubstanceLiveLink (544)
+[2020.08.13-07.29.53:929][791]LogModuleManager: Shutting down and abandoning module SubstanceSource (542)
+[2020.08.13-07.29.53:929][791]LogModuleManager: Shutting down and abandoning module SubstanceEditor (540)
+[2020.08.13-07.29.53:929][791]LogModuleManager: Shutting down and abandoning module ScreenshotTools (538)
+[2020.08.13-07.29.53:929][791]LogModuleManager: Shutting down and abandoning module SynthesisEditor (536)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module Synthesis (534)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (532)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (530)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module OculusEditor (528)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module OculusInput (526)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (524)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module GooglePAD (522)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module EditableMesh (520)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (518)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module CableComponent (516)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module AudioCapture (514)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (513)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module AssetTags (510)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (508)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (506)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module AppleImageUtils (504)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module AndroidPermission (502)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (500)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (498)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module TemplateSequence (496)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (494)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (492)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (490)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (488)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (487)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (484)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (482)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module MediaCompositing (480)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module ImgMedia (478)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (476)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (474)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (472)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (470)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (468)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (466)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (464)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module MeshConversion (462)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module DynamicMesh (460)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (458)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module GeometricObjects (456)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (454)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (453)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (450)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (448)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (446)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (444)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module ChaosNiagara (442)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module FractureEditor (440)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (438)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module ChaosCloth (436)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module BackChannel (434)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (432)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module AutomationUtils (430)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module AlembicImporter (428)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module AlembicLibrary (427)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module GeometryCache (426)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (425)
+[2020.08.13-07.29.53:930][791]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (420)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (418)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (416)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module PluginBrowser (414)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (412)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (410)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (408)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module CurveEditorTools (406)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (404)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module CryptoKeys (402)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (400)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (398)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module UObjectPlugin (396)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (394)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (392)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (390)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (388)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module GitSourceControl (386)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module SourceControl (385)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (382)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (380)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (378)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (376)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (374)
+[2020.08.13-07.29.53:931][791]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (372)
+[2020.08.13-07.29.53:932][791]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (370)
+[2020.08.13-07.29.53:932][791]LogModuleManager: Shutting down and abandoning module Paper2DEditor (368)
+[2020.08.13-07.29.53:932][791]LogModuleManager: Shutting down and abandoning module SoundFields (366)
+[2020.08.13-07.29.53:932][791]LogModuleManager: Shutting down and abandoning module SignificanceManager (364)
+[2020.08.13-07.29.53:932][791]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (362)
+[2020.08.13-07.29.53:932][791]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (360)
+[2020.08.13-07.29.53:932][791]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (356)
+[2020.08.13-07.29.53:932][791]LogModuleManager: Shutting down and abandoning module ActorSequence (354)
+[2020.08.13-07.29.53:932][791]LogModuleManager: Shutting down and abandoning module UdpMessaging (352)
+[2020.08.13-07.29.54:033][791]LogModuleManager: Shutting down and abandoning module TcpMessaging (350)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module SubstanceCore (348)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.08.13-07.29.54:133][791]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.08.13-07.29.54:133][791]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.08.13-07.29.54:133][791]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.08.13-07.29.54:134][791]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.08.13-07.29.54:134][791]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.08.13-07.29.54:134][791]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.08.13-07.29.54:134][791]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.08.13-07.29.54:134][791]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.08.13-07.29.54:135][791]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.08.13-07.29.54:135][791]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.08.13-07.29.54:135][791]LogModuleManager: Shutting down and abandoning module ContentBrowser (289)
+[2020.08.13-07.29.54:136][791]LogModuleManager: Shutting down and abandoning module TreeMap (287)
+[2020.08.13-07.29.54:136][791]LogModuleManager: Shutting down and abandoning module AnimationSharing (284)
+[2020.08.13-07.29.54:136][791]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (282)
+[2020.08.13-07.29.54:136][791]LogModuleManager: Shutting down and abandoning module Paper2D (280)
+[2020.08.13-07.29.54:136][791]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (278)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (276)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (274)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module PacketHandler (272)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (270)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (268)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module MediaAssets (266)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module Overlay (264)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module OverlayEditor (263)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module VREditor (260)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module StringTableEditor (258)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (256)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (254)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module FunctionalTesting (252)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (250)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (249)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module UMG (246)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module UMGEditor (245)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module MessageLog (243)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module MaterialEditor (241)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.08.13-07.29.54:137][791]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.08.13-07.29.54:138][791]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.08.13-07.29.54:138][791]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.08.13-07.29.54:138][791]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.08.13-07.29.54:138][791]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.08.13-07.29.54:138][791]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.08.13-07.29.54:138][791]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.08.13-07.29.54:138][791]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.08.13-07.29.54:138][791]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.08.13-07.29.54:138][791]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.08.13-07.29.54:138][791]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.08.13-07.29.54:138][791]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.08.13-07.29.54:138][791]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.08.13-07.29.54:138][791]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.08.13-07.29.54:138][791]LogXGEController: Cleaning working directory: C:/Users/New/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.08.13-07.29.54:139][791]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.08.13-07.29.54:140][791]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.08.13-07.29.54:140][791]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.08.13-07.29.54:140][791]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.08.13-07.29.54:140][791]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.08.13-07.29.54:140][791]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.08.13-07.29.54:140][791]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.08.13-07.29.54:140][791]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.08.13-07.29.54:140][791]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.08.13-07.29.54:140][791]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.08.13-07.29.54:140][791]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.08.13-07.29.54:141][791]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.08.13-07.29.54:143][791]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.08.13-07.29.54:143][791]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.08.13-07.29.54:143][791]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.08.13-07.29.54:143][791]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.08.13-07.29.54:143][791]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.08.13-07.29.54:143][791]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.08.13-07.29.54:143][791]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.08.13-07.29.54:143][791]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.08.13-07.29.54:143][791]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.08.13-07.29.54:143][791]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.08.13-07.29.54:143][791]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.08.13-07.29.54:143][791]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.08.13-07.29.54:143][791]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.08.13-07.29.54:143][791]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.08.13-07.29.54:143][791]LogHMD: Freeing OpenVRDLLHandle.
+[2020.08.13-07.29.54:144][791]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.08.13-07.29.54:144][791]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.08.13-07.29.54:144][791]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.08.13-07.29.54:144][791]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.08.13-07.29.54:144][791]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.08.13-07.29.54:145][791]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.08.13-07.29.54:145][791]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.08.13-07.29.54:167][791]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.08.13-07.29.54:167][791]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.08.13-07.29.54:167][791]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5BE41727-4A66-5721-EF84-E9AD8A6E3451%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=5a49764e473eb4eb072139b5ed6cf2cb%7Cd6721cd82ddb46b78b390ebd2a2d10bc%7C7abad36f-b9a0-4bd7-a377-5157a8f260af&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.08.13-07.29.54:176][791]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.08.13-07.29.54:176][791]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.08.13-07.29.54:178][791]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.08.13-07.29.54:178][791]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.08.13-07.29.54:178][791]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.08.13-07.29.54:178][791]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.08.13-07.29.54:178][791]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.08.13-07.29.54:178][791]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.08.13-07.29.54:179][791]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.08.13-07.29.54:179][791]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.08.13-07.29.54:179][791]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.08.13-07.29.54:179][791]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.08.13-07.29.54:179][791]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.08.13-07.29.54:179][791]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.08.13-07.29.54:179][791]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.08.13-07.29.54:179][791]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.08.13-07.29.54:179][791]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.08.13-07.29.54:179][791]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.08.13-07.29.54:179][791]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.08.13-07.29.54:179][791]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.08.13-07.29.54:180][791]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.08.13-07.29.54:180][791]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.08.13-07.29.54:180][791]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.08.13-07.29.54:180][791]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.08.13-07.29.54:180][791]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.08.13-07.29.54:180][791]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.08.13-07.29.54:180][791]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.08.13-07.29.54:180][791]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.08.13-07.29.54:180][791]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.08.13-07.29.54:180][791]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.08.13-07.29.54:180][791]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.08.13-07.29.54:180][791]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.08.13-07.29.54:180][791]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.08.13-07.29.54:182][791]LogD3D11RHI: Shutdown
+[2020.08.13-07.29.54:182][791]LogD3D11RHI: CleanupD3DDevice
+[2020.08.13-07.29.54:191][791]LogExit: Exiting.
+[2020.08.13-07.29.54:239][791]Log file closed, 08/13/20 17:29:54
+>>>>>>> Stashed changes
